@@ -124,8 +124,4 @@ Technologies Used
 * Seaborn
 * Scikit-learn
 
----
 
-## 🔹 Author
-
-*Your Name*
